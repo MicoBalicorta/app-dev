@@ -1,4 +1,6 @@
-<img width="662" height="463" alt="hwarang" src="https://github.com/user-attachments/assets/d9d3d736-b171-4a13-bd39-342790892f7b" /># app-dev
+<img width="662" height="463" alt="hwarang" src="https://github.com/user-attachments/assets/d9d3d736-b171-4a13-bd39-342790892f7b" />
+
+# app-dev
 My first repository
 
 <!-- ABOUT THE PROJECT -->
