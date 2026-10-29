@@ -1,10 +1,10 @@
-# app-dev
+<img width="662" height="463" alt="hwarang" src="https://github.com/user-attachments/assets/d9d3d736-b171-4a13-bd39-342790892f7b" /># app-dev
 My first repository
 
-<!--  -->
-## About The Project
+<!-- ABOUT THE PROJECT -->
+## My Favorite
 
-![hwarang](Hwarang.jpg)
+![hwarang](hwarang.webp)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
