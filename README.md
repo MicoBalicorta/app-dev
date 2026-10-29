@@ -16,3 +16,5 @@ The Core Trio
 • Kim Ah-ro (played by Go Ara): A cheerful, resilient, and hardworking woman of mixed social status (half-sacred bone). She works multiple jobs, primarily as a storyteller and a skilled physician for the Hwarang, finding herself caught in a love triangle between Moo-myung and Sammaekjong.
 
 • Sammaekjong / King Jinheung / Kim Ji-dwi (played by Park Hyung-sik): Silla’s hidden, faceless heir to the throne. Forced into hiding by his overly protective mother to escape assassins, he secretly joins the Hwarang under the alias "Ji-dwi" to build his own strength and rightfully reclaim his crown.
+
+And one of the characters in this K-Drama is my Bias his name is Han Sung in this K-Drama but his real name is Kim Taehyung or V and this why I like this K-Drama
